@@ -246,7 +246,7 @@ public class Main {
 	public static void main(String[] args) {
 
 		/* Chemin d'accès au fichier */
-		String cheminIn = "C:\\Users\\...";
+		String cheminIn = "C:\\Users\\...\\in";
 
 		File dir = new File(cheminIn);
 
@@ -258,7 +258,7 @@ public class Main {
 //		for (File child : directoryListing) {
 
 		String nomFichierIn = "for_elise_by_beethoven";
-		String cheminOut = "C:\\Users\\othman\\OneDrive\\Documents\\eclipse-workspace\\negative\\resources\\negatif\\";
+		String cheminOut = "C:\\Users\\...\\out";
 		String nomFichierOut = nomFichierIn + "_negative";
 
 		String tonalite = "A";
