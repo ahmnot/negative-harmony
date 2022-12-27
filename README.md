@@ -1,2 +1,2 @@
 # negative-harmony
-Takes a midi as input file, and outputs it as its negative harmony counterpart. It also implements a key-detection algorithm.
+It is a java program that akes a midi as input file, and outputs it as its negative harmony counterpart, or its "mirror harmony" counterpart. Negative harmony can have multiple interpretations, so the java implements multiple ways to create the negative harmony counterpart. It also implements the Krumhansl-Schmuckler key-detection algorithm which can be found here: http://rnhart.net/articles/key-finding/
